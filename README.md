@@ -13,6 +13,7 @@ Atividades de introdução de JavaScript
    * Executar o código depois de certos eventos na página;
    * Entre outras funcionalidades.
 
+<br>
 
 ## 2. Comandos de JavaScript
 
@@ -27,3 +28,17 @@ Atividades de introdução de JavaScript
    * Document.getElementById = Procurar nos documentos e pegar um elemento por Id (normalmente usado para interligar um elemento do HTML com o JavaScript);
    * .value = Retorna valores númericos;
    * .innerText = Altera o conteúdo de um elemento de sua página (DOM) com o conteúdo tratado apenas como texto;
+
+<br>
+
+## 3. Atividade de exemplo JavaScript
+
+   * Atividade 1 - Primeiro exemplo de Js;
+   * Atividade 2 - Exemplo chrome;
+   * Atividade 3 - Exemplo variável;
+   * Atividade 4 - Exemplo prompt;
+   * Atividade 5 - Exemplo soma;
+   * Atividade 6 - Exemplo soma prompt;
+   * Atividade 7 - Exemplo function;
+   * Atividade 8 - Exemplo function soma;
+   * Atividade 9 - Atividade Calculadora;
