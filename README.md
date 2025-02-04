@@ -1,7 +1,6 @@
 # IntroducaoJs
  
-Atividades de introdução de JavaScript ![image](https://github.com/user-attachments/assets/3ae1ea57-1dab-4fd2-9dc4-b64135a9f667)
-
+Atividades de introdução de JavaScript 
 
 
 ## 1. O que é o JavaScript
@@ -35,12 +34,55 @@ Atividades de introdução de JavaScript ![image](https://github.com/user-attach
 
 ## 3. Atividade de exemplo JavaScript
 
-   * Atividade 1 - Primeiro exemplo de Js;
-   * Atividade 2 - Exemplo chrome;
-   * Atividade 3 - Exemplo variável;
-   * Atividade 4 - Exemplo prompt;
-   * Atividade 5 - Exemplo soma;
-   * Atividade 6 - Exemplo soma prompt;
-   * Atividade 7 - Exemplo function;
-   * Atividade 8 - Exemplo function soma;
-   * Atividade 9 - Atividade Calculadora;
+   * **Atividade 1** - Primeiro exemplo de Js;
+   * **Atividade 2** - Exemplo chrome;
+   * **Atividade 3** - Exemplo variável;
+   * **Atividade 4** - Exemplo prompt;
+   * **Atividade 5** - Exemplo soma;
+   * **Atividade 6** - Exemplo soma prompt;
+   * **Atividade 7** - Exemplo function;
+   * **Atividade 8** - Exemplo function soma;
+   * **Atividade 9** - Atividade Calculadora;
+
+<br>
+
+## 4. Projeto da Calculadora 
+
+  Foi produzido uma calculadora para testar os conhecimentos que foram ensinados em aula. Nessa atividade utilizamos o HTML, CSS e JavaScript para a criação de uma calculadora que multiplica, soma, subtrai e divide dois números, esses que serão adicionados pelo usuário no formulário da página. O resultado do cálculo aparecerá como uma mensagem na tela. O código de JavaScript que foi feito para essa calculadora estará a seguir:
+
+~~~JavaScript
+const soma = ()=>{
+    
+    let nu1 =  parseFloat(document.getElementById("n1").value)
+    let nu2 =  parseFloat(document.getElementById("n2").value)
+    let resultados = (nu1) + (nu2)
+
+    window.alert("Olá, a soma dos números é " + resultados)
+}
+
+const subtracao = ()=>{
+    
+    let nu1 =  parseFloat(document.getElementById("n1").value)
+    let nu2 =  parseFloat(document.getElementById("n2").value)
+    let resultadosub = (nu1) - (nu2)
+
+    window.alert("Olá, a subtração dos números é " + resultadosub)
+}
+
+const multiplicacao = ()=>{
+    
+    let nu1 =  parseFloat(document.getElementById("n1").value)
+    let nu2 =  parseFloat(document.getElementById("n2").value)
+    let resultadomul = (nu1) * (nu2)
+
+    window.alert("Olá, a multiplicação dos números é " + resultadomul)
+}
+
+const divisao = ()=>{
+    
+    let nu1 =  parseFloat(document.getElementById("n1").value)
+    let nu2 =  parseFloat(document.getElementById("n2").value)
+    let resultadodiv = (nu1) / (nu2)
+
+    window.alert("Olá, a divisão dos números é " + resultadodiv)
+}
