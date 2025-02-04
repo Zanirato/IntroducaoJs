@@ -1,37 +1,35 @@
-body {
+body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #000000;
     color: #feb89f;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     align-items: center;
-    height: 100vh;
+    height: 100vh; 
     margin: 0;
-    padding: 10px;
 }
 
-h1 {
+h1{
     color: #feb89f;
 }
 
-h1:hover {
+h1:hover{
     color: #f2a772;
-}
 
+}
 .calcula {
     background-color: #531f52;
     padding: 20px;
     border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 90%;
-    max-width: 350px;
+    width: 350px;
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: center;
     cursor: grab;
     align-items: center;
-    height: auto;
+    height: 450px;
 }
 
 input {
@@ -40,15 +38,15 @@ input {
     font-weight: bold;
     height: 40px;
     border-radius: 10px;
-    width: 100%;
-    max-width: 330px;
-    text-align: center;
-    border-color: #3b0032;
+    width: 330px;
+    text-align:center;
+    border-color:#3b0032;
     cursor: text;
     margin-bottom: 15px;
 }
 
-button {
+button{
+    margin: 0 10px;
     color: #fdcfbf;
     text-decoration: none;
     justify-content: center;
@@ -57,27 +55,30 @@ button {
     background-color: #e23d75;
     padding: 0.3rem 1rem;
     border-radius: 30px;
+    margin: 0 10px;
     cursor: pointer;
     margin-bottom: 5px;
-    width: 100%;
-    max-width: 200px;
+    width: 200px;
     height: 50px;
     border: none;
     font-weight: bolder;
 }
 
 button:hover {
+    text-decoration: none;
     color: #feb89f;
     background-color: #5f0d3b;
 }
 
-/* Responsividade para telas menores */
 @media screen and (max-width: 480px) {
     .calcula {
-        width: 100%;
+        width: 80%;
         padding: 15px;
     }
 
+    input{
+        width: 85%;
+    }
     input, button {
         font-size: 1.1rem;
         height: 45px;
