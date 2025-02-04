@@ -1,7 +1,6 @@
-function teste(){
-    alert("You'll be back🤴")
+const clicou =()=>{
+    window.alert("Você clicou no botão🙄🙄")
 }
 
-teste()
-
 // function = um conjunto de instruções que executa uma tarefa ou calcula um valor
+// const = variável que se repete
