@@ -17,17 +17,18 @@ Atividades de introdução de JavaScript
 
 ## 2. Comandos de JavaScript
 
-   * Let = Definição de variável;
-   * Const = Definição de variável que se repete;
-   * Prompt = Exibe uma caixa de diálogo com uma mensagem;
-   * Function = Um conjunto de instruções que executa uma tarefa ou calcula um valor;
-   * Console.log = Emite uma mensagem para o console;
-   * Alert ou window.alert = Mostra ao usuário uma mensagem e um botão de confirmação;
-   * ParseInt = Aceita números inteiros;
-   * ParseFlow = Aceita números decimais;
-   * Document.getElementById = Procurar nos documentos e pegar um elemento por Id (normalmente usado para interligar um elemento do HTML com o JavaScript);
-   * .value = Retorna valores númericos;
-   * .innerText = Altera o conteúdo de um elemento de sua página (DOM) com o conteúdo tratado apenas como texto;
+   * `let` = Definição de variável;
+   * `const` = Definição de variável que se repete;
+   * `prompt` = Exibe uma caixa de diálogo com uma mensagem;
+   * `function` = Um conjunto de instruções que executa uma tarefa ou calcula um valor;
+   * `console.log` = Emite uma mensagem para o console;
+   * `console.log` = Emite uma mensagem para o console;
+   * `alert` ou `window.alert` = Mostra ao usuário uma mensagem e um botão de confirmação;
+   * `parseInt` = Aceita números inteiros;
+   * `parseFlow` = Aceita números decimais;
+   * `document.getElementById` = Procurar nos documentos e pegar um elemento por Id (normalmente usado para interligar um elemento do HTML com o JavaScript);
+   * `.value` = Retorna valores númericos;
+   * `.innerText` = Altera o conteúdo de um elemento de sua página (DOM) com o conteúdo tratado apenas como texto;
 
 <br>
 
