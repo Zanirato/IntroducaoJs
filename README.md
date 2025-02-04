@@ -48,7 +48,7 @@ Atividades de introdução de JavaScript
 
 ## 4. Projeto da Calculadora 
 
-  Foi produzido uma calculadora para testar os conhecimentos que foram ensinados em aula. Nessa atividade utilizamos o HTML, CSS e JavaScript para a criação de uma calculadora que multiplica, soma, subtrai e divide dois números, esses que serão adicionados pelo usuário no formulário da página. O resultado do cálculo aparecerá como uma mensagem na tela. O código de JavaScript que foi feito para essa calculadora estará a seguir:
+  Foi produzido uma calculadora para testar os conhecimentos que foram ensinados em aula. Nessa atividade - Atividade 9 - utilizamos o HTML, CSS e JavaScript para a criação de uma calculadora que multiplica, soma, subtrai e divide dois números, esses que serão adicionados pelo usuário no formulário da página. O resultado do cálculo aparecerá como uma mensagem na tela. O código de JavaScript que foi feito para essa calculadora estará a seguir:
 
 ~~~JavaScript
 const soma = ()=>{
