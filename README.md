@@ -1,4 +1,5 @@
-# IntroducaoJs
+# IntroducaoJs ![icons8-javascript](https://github.com/user-attachments/assets/6ec7738a-f4f6-4590-b583-980a5008446d)
+
  
 Atividades de introdução de JavaScript 
 
