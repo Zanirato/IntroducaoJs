@@ -1,6 +1,7 @@
 # IntroducaoJs
  
-Atividades de introdução de JavaScript
+Atividades de introdução de JavaScript ![image](https://github.com/user-attachments/assets/3ae1ea57-1dab-4fd2-9dc4-b64135a9f667)
+
 
 
 ## 1. O que é o JavaScript
