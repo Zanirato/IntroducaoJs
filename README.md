@@ -23,7 +23,6 @@ Atividades de introdução de JavaScript
    * `prompt` = Exibe uma caixa de diálogo com uma mensagem;
    * `function` = Um conjunto de instruções que executa uma tarefa ou calcula um valor;
    * `console.log` = Emite uma mensagem para o console;
-   * `console.log` = Emite uma mensagem para o console;
    * `alert` ou `window.alert` = Mostra ao usuário uma mensagem e um botão de confirmação;
    * `parseInt` = Aceita números inteiros;
    * `parseFlow` = Aceita números decimais;
